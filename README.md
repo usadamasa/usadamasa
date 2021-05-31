@@ -24,6 +24,8 @@
 - FW
   - Hadoop
   - django
+  - OpenAPI
+  - protobuf
 - M/W
   - Docker
   - k8s
