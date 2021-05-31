@@ -12,6 +12,7 @@
 - Cloud Engineer
 
 ## Qualifications
+- 基本情報技術者/応用情報技術者
 - [Google Cloud Professional Cloud Developer](https://www.credential.net/16baec71-a3b4-40b0-883f-00a2f9dc3e70)
   - Date of issue: 2020-02-07
 
