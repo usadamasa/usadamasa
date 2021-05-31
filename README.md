@@ -22,6 +22,7 @@
   - Java
   - Python
   - Golang
+  - Rust
 - FW
   - Hadoop
   - django
