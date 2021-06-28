@@ -10,6 +10,7 @@
 - Backend Engineer
 - SRE
 - Cloud Engineer
+- Data Engineer
 
 ## Qualifications
 - 基本情報技術者/応用情報技術者
@@ -24,7 +25,6 @@
   - Golang
   - Rust
 - FW
-  - Hadoop
   - django
   - OpenAPI
   - protobuf
@@ -33,6 +33,11 @@
   - k8s
   - Jenkins
   - Sentry
+  - Hadoop
+- (No)SQL
+  - MySQL
+  - Elasticsearch
+  - MongoDB
 - Performance Tuning in {Java, C++, SQL, batchs}
 - Automation Test Engineering
 - GCP
