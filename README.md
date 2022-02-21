@@ -10,22 +10,24 @@
 - Backend Engineer
 - SRE
 - Cloud Engineer
-- Data Engineer
+- ~Data Engineer~
 
 ## Qualifications
 - 基本情報技術者/応用情報技術者
 - [Google Cloud Professional Cloud Developer](https://www.credential.net/16baec71-a3b4-40b0-883f-00a2f9dc3e70)
-  - Date of issue: 2020-02-07
+  - Date of issue: 2020-02-07 (失効済み)
+- [Google Cloud Professional Data Engineer](https://www.credential.net/2a462aab-b12d-412b-9fd7-f76d1b59902a)
+  - Date of issue: 2023-08-28
 
 ## スキル
 - Languages
   - C++
   - Java
-  - Python
+  - ~Python~
   - Golang
   - Rust
 - FW
-  - django
+  - ~django~
   - OpenAPI
   - protobuf
 - M/W
@@ -61,9 +63,13 @@ Java製APIサーバを開発するチームに異動し､Sentryなどを導入�
 
 全体を通じて､計測と実験に基づくパフォーマンスチューニングを行い､ユーザ経験の向上とコスト削減に貢献した｡
 
-### 2019-09 - (現職) 3社目 データ分析基盤の運用開発
+### 2019-09 - 2021-12 3社目 データ分析基盤の運用開発
 GCPに構築されたデータ分析基盤の運用開発を担当｡  
 コンテナを活用したクラウドネイティブなアプリケーションを主導し､以後安定稼働｡  
 
 担当領域のGCPプロジェクト(およそ40)の全体管理を任され､コスト､権限ガバナンスの傍ら､
 PubSubやCloudRunを活用したアプリケーション開発にてバックエンド/インフラ/開発プロセス全般を主導､リリース｡
+
+### 2022-01 - (現職) 4社目 マイクロサービスの設計開発
+Senior Software Engineer  
+モノリシックなRailsアプリのマイクロサービス化を含めたモダナイゼーション全般を担当｡  
