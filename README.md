@@ -11,31 +11,28 @@
 - Backend Engineer
 - SRE
 - Cloud Engineer
-- ~Data Engineer~
 
 ## Qualifications
 - 基本情報技術者/応用情報技術者
 - [Google Cloud Professional Cloud Developer](https://www.credential.net/16baec71-a3b4-40b0-883f-00a2f9dc3e70)
   - Date of issue: 2020-02-07 (失効済み)
 - [Google Cloud Professional Data Engineer](https://www.credential.net/2a462aab-b12d-412b-9fd7-f76d1b59902a)
-  - Date of issue: 2023-08-28
+  - Date of issue: 2023-08-28 (失効済み)
 
 ## スキル
 - Languages
+  - Golang
   - C++
   - Java
-  - ~Python~
-  - Golang
   - Rust
 - FW
-  - ~django~
   - OpenAPI
-  - protobuf
+  - GraphQL
+  - gRPC
 - M/W
   - Docker
   - k8s
-  - Jenkins
-  - Sentry
+  - Terraform
   - Hadoop
 - (No)SQL
   - MySQL
