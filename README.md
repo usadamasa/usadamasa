@@ -3,6 +3,7 @@
 - [@usadamasa](https://twitter.com/usadamasa)
 - [GitHub](https://github.com/usadamasa)
 - [LinkedIn](https://www.linkedin.com/in/masaru-uchida/)
+- [YOUTRUST](https://youtrust.jp/users/usadamasa)
 - [HatenaBlog](https://usadamasa.hatenablog.com/)
 - [connpass](https://connpass.com/user/usadamasa/)
 
