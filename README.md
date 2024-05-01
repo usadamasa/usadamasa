@@ -8,11 +8,13 @@
 - [connpass](https://connpass.com/user/usadamasa/)
 
 ## 主なロール
+
 - Backend Engineer
 - SRE
 - Cloud Engineer
 
 ## Qualifications
+
 - 基本情報技術者/応用情報技術者
 - [Google Cloud Professional Cloud Developer](https://www.credential.net/16baec71-a3b4-40b0-883f-00a2f9dc3e70)
   - Date of issue: 2020-02-07 (失効済み)
@@ -20,6 +22,7 @@
   - Date of issue: 2023-08-28 (失効済み)
 
 ## スキル
+
 - Languages
   - Golang
   - C++
@@ -38,6 +41,7 @@
   - MySQL
   - Elasticsearch
   - MongoDB
+  - Redis
 - Performance Tuning in {Java, C++, SQL, batchs}
 - Automation Test Engineering
 - GCP
@@ -47,12 +51,15 @@
   - IAM
 
 ## 主な経歴
+
 ### 2011-04 - 2015-03 1社目 銀行メインフレームシステムのオープン化案件
+
 データ移行エンジニアとして､メインフレームDBからOracleへのデータマイグレーション方式の要件定義~実装~テストまで担当｡  
 C++を用いて高速なデータ変換ツールを提供｡ 結合テスト段階では同ツールを用いて業務アプリケーションの検証自動化に貢献｡  
 ツール自体も自らgtestを導入し品質担保を行う｡
 
 ### 2015-04 - 2019-08 2社目 ナビゲーションシステムの開発
+
 C++およびテスト自動化の知識を活用し､レガシーコードの品質向上に取り組む｡  
 また､属人化, フレーキーな状態だったサーバを整理､統一を行い､開発時･リリース時ともに工数および障害リスクを大幅に削減｡  
 
@@ -62,6 +69,7 @@ Java製APIサーバを開発するチームに異動し､Sentryなどを導入�
 全体を通じて､計測と実験に基づくパフォーマンスチューニングを行い､ユーザ経験の向上とコスト削減に貢献した｡
 
 ### 2019-09 - 2021-12 3社目 データ分析基盤の運用開発
+
 GCPに構築されたデータ分析基盤の運用開発を担当｡  
 コンテナを活用したクラウドネイティブなアプリケーションを主導し､以後安定稼働｡  
 
@@ -69,5 +77,11 @@ GCPに構築されたデータ分析基盤の運用開発を担当｡
 PubSubやCloudRunを活用したアプリケーション開発にてバックエンド/インフラ/開発プロセス全般を主導､リリース｡
 
 ### 2022-01 - (現職) 4社目 マイクロサービスの設計開発
+
 Senior Software Engineer  
 モノリシックなRailsアプリのマイクロサービス化を含めたモダナイゼーション全般を担当｡  
+組織の開発生産性にフォーカスしFour Keysの計測やtrunkベース開発の導入などを行った｡
+
+#### 活動
+
+- [10年もののRailsアプリの持続可能性を求めて -なぜ初手でCoffeeScript廃止を選んだのか- - Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2024/04/10/190149)
