@@ -27,8 +27,9 @@
   - Golang
   - C++
   - Java
-  - Rust
+  - Python
 - FW
+  - Quarkus
   - OpenAPI
   - GraphQL
   - gRPC
@@ -37,8 +38,11 @@
   - k8s
   - Terraform
   - Hadoop
+  - Iceberg
+  - Trino
 - (No)SQL
   - MySQL
+  - PostgreSQL
   - Elasticsearch
   - MongoDB
   - Redis
@@ -49,6 +53,9 @@
   - GKE
   - CloudBuild
   - IAM
+- Others
+  - DataDog
+  - Terraform
 
 ## 主な経歴
 
@@ -76,12 +83,18 @@ GCPに構築されたデータ分析基盤の運用開発を担当｡
 担当領域のGCPプロジェクト(およそ40)の全体管理を任され､コスト､権限ガバナンスの傍ら､
 PubSubやCloudRunを活用したアプリケーション開発にてバックエンド/インフラ/開発プロセス全般を主導､リリース｡
 
-### 2022-01 - (現職) 4社目 マイクロサービスの設計開発
+### 2022-01 - 2024-09 4社目 株式会社マネーフォワード マイクロサービスの設計開発
 
 Senior Software Engineer  
 モノリシックなRailsアプリのマイクロサービス化を含めたモダナイゼーション全般を担当｡  
 組織の開発生産性にフォーカスしFour Keysの計測やtrunkベース開発の導入などを行った｡
 
-#### 活動
-
 - [10年もののRailsアプリの持続可能性を求めて -なぜ初手でCoffeeScript廃止を選んだのか- - Money Forward Developers Blog](https://moneyforward-dev.jp/entry/2024/04/10/190149)
+
+### 2024-10 - (現職) 5社目 キャディ株式会社 データレイクハウスの開発運用
+
+Software Engineer  
+顧客向けデータレイクハウス基盤の設計開発運用を担当｡  
+GKE上でのQuarkus + Trino + Icebergの技術スタックでスクラムにより開発中｡
+
+- [アプリケーションアーキテクチャをいい感じに検証し続けたい話 - CADDi Tech Blog](https://caddi.tech/2025/04/16/093000)
